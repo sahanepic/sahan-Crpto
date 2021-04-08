@@ -1,6 +1,6 @@
 package com.sahanbcs.randomnumber;
 
-import com.sahanbcs.Utill.Printer;
+import com.sahanbcs.utill.Printer;
 
 public class SecureRandom {
 
